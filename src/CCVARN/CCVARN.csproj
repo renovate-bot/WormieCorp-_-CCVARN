@@ -29,7 +29,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<PackageReference Include="DryIoc" Version="5.1.0" />
+		<PackageReference Include="DryIoc" Version="5.4.3" />
 		<PackageReference Include="Microsoft.SourceLink.GitHub" Version="1.1.1">
 			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
 			<PrivateAssets>all</PrivateAssets>
